@@ -65,7 +65,7 @@ I enjoy working at the intersection of **AI, analytics, and software engineering
 
 🔹 [KIND-HANDS ](https://github.com/sanjanar1702/KIND-HANDS) – React Native & Firebase app connecting donors with charities, integrated with Stripe for secure payments.  
 
-🔹 [Lalitha's-Kitchen](https://github.com/sanjanar1702/Lalitha's-Kitchen) – Full-stack web platform with HTML, CSS, JS, Node.js/Express, and MongoDB for home-cooked meal orders.
+🔹 [Lalitha-Kitchen](https://github.com/sanjanar1702/Lalitha-Kitchen) – Full-stack web platform with HTML, CSS, JS, Node.js/Express, and MongoDB for home-cooked meal orders.
 
 🔹 [Automated_Loan_Approval_System ](https://github.com/sanjanar1702/Automated_Loan_Approval_System) – Decision Tree & Random Forest with Streamlit UI achieving 89% accuracy.  
 
