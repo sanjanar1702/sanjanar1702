@@ -61,17 +61,17 @@ I enjoy working at the intersection of **AI, analytics, and software engineering
 
 ## 🌟 Featured Projects  
 
-🔹 [EAZY - EYES](https://github.com/sanjanar1702/PROJECT1) – Python-based eye-typing system using CNNs and HOG with 92% gaze classification accuracy.
+🔹 [EAZY-EYES](https://github.com/sanjanar1702/EAZY-EYES) – Python-based eye-typing system using CNNs and HOG with 92% gaze classification accuracy.
 
-🔹 [KIND HANDS ](https://github.com/sanjanar1702/PROJECT2) – React Native & Firebase app connecting donors with charities, integrated with Stripe for secure payments.  
+🔹 [KIND-HANDS ](https://github.com/sanjanar1702/KIND-HANDS) – React Native & Firebase app connecting donors with charities, integrated with Stripe for secure payments.  
 
-🔹 [Lalitha's Kitchen](https://github.com/sanjanar1702/PROJECT3) – Full-stack web platform with HTML, CSS, JS, Node.js/Express, and MongoDB for home-cooked meal orders.
+🔹 [Lalitha's-Kitchen](https://github.com/sanjanar1702/Lalitha's-Kitchen) – Full-stack web platform with HTML, CSS, JS, Node.js/Express, and MongoDB for home-cooked meal orders.
 
-🔹 [Automated Loan Approval System ](https://github.com/sanjanar1702/Project4) – Decision Tree & Random Forest with Streamlit UI achieving 89% accuracy.  
+🔹 [Automated_Loan_Approval_System ](https://github.com/sanjanar1702/Automated_Loan_Approval_System) – Decision Tree & Random Forest with Streamlit UI achieving 89% accuracy.  
 
-🔹 [Sentiment Analysis](https://github.com/sanjanar1702/Project5) – NLP model with TF-IDF & Logistic Regression/SVM achieving 90% accuracy.  
+🔹 [Sentiment_Analysis](https://github.com/sanjanar1702/Sentiment_Analysis) – NLP model with TF-IDF & Logistic Regression/SVM achieving 90% accuracy.  
 
-🔹 [Business Insights Dashboard](https://github.com/sanjanar1702/Project6) – Data visualization dashboard in Power BI and Plotly for real-time business insights.  
+🔹 [Business_Insights_Dashboard](https://github.com/sanjanar1702/Business_Insights_Dashboard) – Data visualization dashboard in Power BI and Plotly for real-time business insights.  
 
 ---
 
